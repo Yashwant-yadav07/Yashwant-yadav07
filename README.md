@@ -13,9 +13,9 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anjali-yadav17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anjali-yadav17&theme=midnight-purple&hide_border=false&cache_seconds=10)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-yadav17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Yashwant-yadav07&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yashwant-yadav07&theme=midnight-purple&hide_border=false&cache_seconds=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant-yadav07&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
