@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashwant Yadav
 
-💻 An aspiring Software Engineer focused on building efficient, scalable solutions. 
+💻 An aspiring Software Engineer.
 
 ---
 
